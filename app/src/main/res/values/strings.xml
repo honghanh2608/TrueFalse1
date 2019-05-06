@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrueOrFalse</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">You are so slow. Try new game</string>
+    <string name="_0">0</string>
+    <string name="result">= %d</string>
+    <string name="press_back_again_to_exit">Press again to exit</string>
+    <string name="_new">New</string>
+    <string name="best">Best</string>
+</resources>
